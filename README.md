@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sid!
 - 👀 I’m interested in Backend Software Development
 - 🌱 I’m currently expanding my skillset and learning about containerization and networking. 
-- 💞️ I’m looking to collaborate on development projects.
+- 🤝 I’m looking to collaborate on development projects.
 - 📫 I can be reached by email: siddhant.7000@gmail.com
 
 <!---
